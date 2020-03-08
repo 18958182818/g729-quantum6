@@ -13,6 +13,7 @@ libg729b_la_SOURCES  = \
  dec_lag3.c\
  dec_ld8a.c\
  dec_sid.c\
+ decoder.c \
  dspfunc.c\
  dtx.c\
  filter.c\
